@@ -41,5 +41,5 @@ Antes de começar, certifique-se de ter instalado no seu servidor:
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/JhonnyASoares/odadlos-stream.git
-   cd Odadlos-Stream
+   cd odadlos-stream
    ```
